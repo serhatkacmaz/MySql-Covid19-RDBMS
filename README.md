@@ -1,1 +1,1 @@
-# MsSql-Covid19-RDBMS
+# MySql-Covid19-RDBMS
