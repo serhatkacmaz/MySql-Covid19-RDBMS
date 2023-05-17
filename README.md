@@ -1,1 +1,1 @@
-# covid19-Database-Design
+# MsSql-Covid19-RDBMS
